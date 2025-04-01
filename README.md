@@ -12,7 +12,7 @@
 - 💻 Experienced in **Data Analytics, Machine Learning, and Software Engineering**  
 - 🚀 Passionate about **Big Data, AI, Cloud Technologies, and Data Visualization**  
 - 🏢 Previously worked as **System Consultant & Software Engineer at Larsen & Toubro**  
-- 📊 Building projects in **Python, SQL, R, Power BI, Apache Airflow, Snowflake, Spark, and Kafka**  
+- 📊 Building projects in **Python, SQL, R, Power BI, Apache Airflow,Dbt , Snowflake, Spark, and Kafka**  
 - 🔍 Exploring **MLOps, NLP, and Large-Scale Data Processing**  
 
 ---
@@ -39,6 +39,19 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Superset](https://img.shields.io/badge/Apache%20Superset-293251?style=for-the-badge&logo=Apache%20Superset&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-0080FF?style=for-the-badge&logo=seaborn&logoColor=white)
+
+
+**Collabrate**
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Other Tools**  
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache dbt](https://img.shields.io/badge/Apache%20dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ---
 
