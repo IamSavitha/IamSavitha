@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Master's in Data Analytics student at SJSU  <br>🤝 I’m passionate about Machine Learning Data Science<br>🌱 I’m currently learning Machine Learning and data science <br>💬 Ask me about Data, Art , Throw ball , Parenting 
+🔭 I’m currently Master's in Data Analytics student at SJSU  <br>🤝 I’m passionate about Machine Learning Data Science<br>💬 Ask me about Data, Art , Throw ball , Parenting 
  
 
 # 💻 Tech Stack:
