@@ -2,7 +2,7 @@
 🔭 I’m Master's in Data Analytics student at SJSU  <br>🤝 I’m passionate about Machine Learning Data Science<br>💬 Ask me about Data, ML ,AI, Art 
 
 # 💻 Tech Stack:
-#Languages:
+Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=sql&logoColor=orange) 
 
 Tools: 
