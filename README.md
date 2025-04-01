@@ -55,19 +55,6 @@
 
 ---
 
-### 📌 Featured Projects  
-
-✅ **[XYZ Electronics & Home Entertainment Online Store](#)**  
-🔹 Designed an object-oriented e-commerce system with **product management, order processing, and encrypted authentication**.  
-
-✅ **[Student Grade Management System](#)**  
-🔹 Built a **CLI-based grade tracking application** with **course statistics and professor-student management**.  
-
-✅ **[Sentiment Analysis on News & Stock Correlation](#)**  
-🔹 Developed an **NLP-based model** to analyze **news sentiment** and its impact on stock price movements.  
-
----
-
 ### 📬 Let's Connect!  
 🔗 **LinkedIn**: [linkedin.com/in/IamSavitha](https://www.linkedin.com/in/IamSavitha)  
 🐦 **Twitter**: [twitter.com/IamSavitha](https://twitter.com/IamSavitha)  
