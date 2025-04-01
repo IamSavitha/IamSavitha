@@ -55,11 +55,4 @@
 
 ---
 
-### 📬 Let's Connect!  
-🔗 **LinkedIn**: [linkedin.com/in/IamSavitha](https://www.linkedin.com/in/IamSavitha)  
-🐦 **Twitter**: [twitter.com/IamSavitha](https://twitter.com/IamSavitha)  
-📧 **Email**: savitha.vijayarangan09@gmail.com  
-
----
-
 ⭐ **If you like my work, consider giving a star!** ⭐  
