@@ -42,8 +42,7 @@
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-0080FF?style=for-the-badge&logo=seaborn&logoColor=white)
 
-
-**Collabrate_tools**
+**Collabrate_tools**  
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
