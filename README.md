@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Savitha Vijayarangan 👋</h1>
-<h3 align="center">A Data Analytics & Machine Learning Enthusiast | Software Engineer | MS Data Analytics @ SJSU</h3>
+<h3 align="center">A Data Science & Machine Learning Enthusiast | Software Engineer | MS Data Analytics @ SJSU</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IamSavitha&label=Profile%20Views&color=blue&style=flat" alt="IamSavitha" />
