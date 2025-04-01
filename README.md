@@ -30,6 +30,10 @@ Library
 ![seaborn](https://img.shields.io/badge/seaborn-0080FF?style=for-the-badge&logo=seaborn&logoColor=white)
 
 
+Data Visualization: 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-293251?style=for-the-badge&logo=Apache%20Superset&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=for-the-badge&logo=Microsoft%20Visio&logoColor=white)
 
 Collabrate 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
